@@ -30,11 +30,11 @@ Notes
 -----
 The file is divided into 5 sections:
 
-# Global Variables / Initialization: invokes the Google Maps API, sets the center, sets some variables I use globally throughout the script
-# Events: event listeners for when a search is made, or when the map is moved or zoomed
-# Google Map Functions: functions that place markers on the map and clear drawings
-# Common JS functions: functions that parse the results from a PHP script and format them for the map
-# UI Setup & UI Events: mostly jQuery UI code for the search box. There's some jQuery code for the search (section 4), but most of the jQuery code is here.
+1. Global Variables / Initialization: invokes the Google Maps API, sets the center, sets some variables I use globally throughout the script
+2. Events: event listeners for when a search is made, or when the map is moved or zoomed
+3. Google Map Functions: functions that place markers on the map and clear drawings
+4. Common JS functions: functions that parse the results from a PHP script and format them for the map
+5. UI Setup & UI Events: mostly jQuery UI code for the search box. There's some jQuery code for the search (section 4), but most of the jQuery code is here.
 
 
 Download
